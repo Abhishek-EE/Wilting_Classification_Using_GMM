@@ -1,2 +1,2 @@
 # Wilting_Classification_Using_GMM
-This was my Project for ECE 542
+This was first my intial work on a project dduring my coursework of ECE 542 at NC STATE
